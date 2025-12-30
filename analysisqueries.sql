@@ -1,4 +1,4 @@
-/* Query 1
+/* Query 1 
    Title: Orders and Revenue by Customer City
    Purpose: Identify cities generating highest orders and revenue */
 SELECT
